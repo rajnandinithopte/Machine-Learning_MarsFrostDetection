@@ -1,4 +1,4 @@
-# Machine-Learning_MarsFrostDetection
+# Machine-Learning: Mars Frost Detection
 ## 🔷 Identification of Frost in Martian HiRISE Images
 
 ### 🔶 Overview
